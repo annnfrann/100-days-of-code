@@ -4,6 +4,12 @@
 
 **Today's Progress**: submitted some PRs for hacktoberfest.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: October 2, 2019
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: set up exercisms and did two.
+
+**Thoughts:** it's been a while since i ran ```bash
+$ brew update
+```.
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
