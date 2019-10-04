@@ -11,7 +11,8 @@
 **Thoughts:** it's been a while since i ran
 ```bash
 $ brew update
-```.
+```
+.
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
 
