@@ -12,7 +12,6 @@
 ```bash
 $ brew update
 ```
-.
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
 
@@ -21,5 +20,13 @@ $ brew update
 **Today's Progress:** did an exercism.
 
 **Thoughts:** i forgot about the ternary operator for a second. had to refactor
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
+
+### Day 4: October , 2019
+
+**Today's Progress:** refactored a previous exercism and did another
+
+**Thoughts:** indexOf is a method i forgot about for a second
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
