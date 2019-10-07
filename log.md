@@ -23,10 +23,18 @@ $ brew update
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
 
-### Day 4: October , 2019
+### Day 4: October 5, 2019
 
 **Today's Progress:** refactored a previous exercism and did another
 
 **Thoughts:** indexOf is a method i forgot about for a second
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
+
+### Day 5: October 6, 2019
+
+**Today's Progress:** did some code wars
+
+**Thoughts:** waiting on mentor feedback before i can move forward with exercisms
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
