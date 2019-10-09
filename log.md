@@ -38,3 +38,11 @@ $ brew update
 **Thoughts:** waiting on mentor feedback before i can move forward with exercisms
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
+
+### Day 6: October 8, 2019
+
+**Today's Progress:** did an exercism
+
+**Thoughts:** i know lots of things, and i am capable of using what i know
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
