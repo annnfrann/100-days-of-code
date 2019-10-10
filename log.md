@@ -46,3 +46,11 @@ $ brew update
 **Thoughts:** i know lots of things, and i am capable of using what i know
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
+
+### Day 7: October 9, 2019
+
+**Today's Progress:** refactored an exercism per mentor input and started a side exercise
+
+**Thoughts:** i need to brush up on using the `this` keyword for constructors
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
