@@ -62,3 +62,11 @@ $ brew update
 **Thoughts:** it feels nice to get back in the habit of coding
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
+
+### Day 9: October 12, 2019
+
+**Today's Progress:** completed an exercism and a side exercise. refreshed knowledge of js Time
+
+**Thoughts:** it feels nice to get back in the habit of coding
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
