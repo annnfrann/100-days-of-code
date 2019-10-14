@@ -70,3 +70,11 @@ $ brew update
 **Thoughts:** it feels nice to get back in the habit of coding
 
 **Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
+
+### Day 10: October 13, 2019
+
+**Today's Progress:** refactored two exercisms per very nitpicky mentor suggestion and completed a code wars exercise
+
+**Thoughts:** i wish the exercism mentors would mark an exercism as complete even if i used exponent notation (10**9) and they would've preferred i used scientific notation (1e9) :roll_eyes:
+
+**Link to work:** [exercism profile](https://exercism.io/profiles/annnfrann)
